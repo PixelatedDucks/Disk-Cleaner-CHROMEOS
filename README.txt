@@ -7,3 +7,5 @@ YouTube: youtube.com/@pixelatedducks
 I hope you all have more storage. Thanks for supporting me!
 
 -PixelatedDucks
+
+IMPORTANT: since ChromeOS is a limited type, this is your terminal: ./disk_cleaner.sh
